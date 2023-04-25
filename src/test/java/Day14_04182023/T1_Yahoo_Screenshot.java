@@ -42,6 +42,6 @@ public class T1_Yahoo_Screenshot extends TestParent {
             logger.log(LogStatus.FAIL, "The checkbox is checked: " + isStaySignedInChecked);
         }
     }//end of test case 2
-
+//making a change
 }
 
